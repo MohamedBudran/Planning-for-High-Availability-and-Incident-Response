@@ -49,3 +49,5 @@ resource "aws_vpc" "this" {
      var.public_subnet_tags
    )
  }
+
+ 
